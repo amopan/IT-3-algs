@@ -1,0 +1,3 @@
+# ignore notnet auto generated files
+**/bin
+**/obj
